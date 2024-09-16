@@ -1,4 +1,4 @@
-# VoronTrident Build Log
+# Voron Trident Build Log
 Documentation of my Voron Trident 250mm Build!
 
 Hopefully there may be helpful information in here for others :) 
