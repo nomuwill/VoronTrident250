@@ -62,9 +62,12 @@ Hopefully there may be helpful information in here for others :)
 - XY gantry installed and squared
 - Z assembly installed
 - Belts installed
+- Stealthburner parts started
+- Still getting warping issues with ASA so may need to reprint some parts
 
 ### Sept 19
 - Clockwork parts printed
+- Stealthburner parts finished
 
 ### Sept 20
 - Clockwork extruder assembled
