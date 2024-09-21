@@ -1,15 +1,11 @@
 ## Build Log
 
 ### Sept 7
-- Parts ordered
+- Parts ordered, very excited
 
-### Sept 10
+### Sept 10 - 12
 - Printed AB_Drive_Units
-
-### Sept 11
 - Printed Front_Idlers
-
-### Sept 12
 - Printed Z_Assembly
 
 ### Sept 13
@@ -31,11 +27,9 @@
   - Noted that two linear rails felt 'crunchy' and were placed on z-axis (less critical?)
   - Contacted FORMBOT, will see about replacement
 
-### Sept 16
+### Sept 16 - 17
 - Printed X_Carrige
 - Printed part of XY_Joints
-
-### Sept 17
 - Finished XY_Joints prints
 - Finished Gantry prints
 
@@ -46,11 +40,9 @@
 - Stealthburner parts started
 - Still getting warping issues with ASA so may need to reprint some parts
 
-### Sept 19
+### Sept 19 - 20
 - Clockwork parts printed
 - Stealthburner parts finished
-
-### Sept 20
 - Clockwork extruder assembled
 - Stealthburner assembled
 
