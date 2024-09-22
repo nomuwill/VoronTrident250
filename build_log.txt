@@ -48,3 +48,4 @@
 
 ### Sept 21
 - TAP parts printed
+- Bed pieces 'adhered,' need to buy RTV
